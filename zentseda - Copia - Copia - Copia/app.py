@@ -9,7 +9,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Zents EDA", page_icon="zents_logo.png", layout="wide")
 st.image("zents_logo.png", width=140)
-st.title("Zents EDA ✨")
+st.title(" Zents EDA ✨ ")
 st.markdown("""
 Bem-vindo ao Zents EDA! Siga as etapas abaixo para explorar, limpar e visualizar seus dados.
 """)
